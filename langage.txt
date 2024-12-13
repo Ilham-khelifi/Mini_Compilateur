@@ -1,0 +1,44 @@
+program isil
+{
+## programme a tester ##
+##declaration##
+float x, y, z;
+int CONST s=1;
+s=2;
+int T[3]; 
+int p,i,o,j;
+string ch;
+##double declaration##
+float x;
+##idf non declarer##
+W=2;
+##InstArith##
+x=z+y;
+y=y/0;
+i=j*o+p-2+3;
+ch=10;
+##p="loubna";##
+i=o*10;
+T[4]=10;
+T=10;
+##boucle##
+for(i=1 ; i<10 ; i++) 
+begin
+j=i*o; 
+for(j=1 ; j<10 ; j++) 
+begin 
+p=i*j;
+end 
+Out("%d",p);
+end 
+##lecture##
+In("%s",p);
+In("%d %s",p);
+In("%d %s",p);
+
+##ecriture##
+Out(" dnzaidjzd %d",p);
+Out("%d %f",p,ch);
+Out("kfokfeofooopp");
+Out("kfokfeofooopp");
+}
